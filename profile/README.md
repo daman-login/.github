@@ -3,8 +3,8 @@
 <section>
         <h2>Quick Access</h2>
         <h3><a href="https://damangames.one/login/" target="_blank">Daman Game Login</a></h3>
-        <h3><a href="https://damangames.one/register/" target="_blank"></a></h3>
-        <h3><a href="https://damangames.one/download/" target="_blank"></a></h3>
+        <h3><a href="https://damangames.one/register/" target="_blank">daman Game Register</a></h3>
+        <h3><a href="https://damangames.one/download/" target="_blank"></a>Daman App Download</h3>
     </section>
         
 <section>
