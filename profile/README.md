@@ -2,11 +2,9 @@
 <p>Welcome to the Daman Games! Daman Games is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Games, you can play, win, and even earn real money.</p>
 <section>
         <h2>Quick Access</h2>
-        <ul>
-            <li><a href="https://damangames.one/login/" target="_blank">Daman Game Login</a> - Already have an account? Log in to start playing.</li>
-            <li><a href="https://damangames.one/register/" target="_blank">Daman Game Register</a> - New to Daman Games? Sign up to join our community.</li>
-            <li><a href="https://damangames.one/download/" target="_blank">Daman App Download</a> - Take the excitement with you! Download the app for seamless mobile gaming.</li>
-        </ul>
+        <h3><a href="https://damangames.one/login/" target="_blank">Daman Game Login</a></h3>
+        <h3><a href="https://damangames.one/register/" target="_blank"></h3>
+        <h3><a href="https://damangames.one/download/" target="_blank"></h3>
     </section>
         
 <section>
