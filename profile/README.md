@@ -5,15 +5,15 @@
         <h3><a href="https://damangames.one/register/" target="_blank">Daman Game Register</a></h3>
         <h3><a href="https://damangames.one/download/" target="_blank">Daman App Download</a></h3>
     </section>
-<p>Welcome to the Daman Game! Daman Game is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Game, you can play, win, and even earn real money.</p>
+<p>Welcome to the Daman Games! Daman Games is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Game, you can play, win, and even earn real money.</p>
         
 <section>
-        <h2>Daman Game Invitation Code – <strong>382757617365</strong></h2>
+        <h2>Daman Games Invitation Code – <strong>382757617365</strong></h2>
         <p><em>Get a Free ₹600 Bonus when you sign up with this code!</em></p>
     </section>
 
 <section>
-        <h2>What Is Daman Game App?</h2>
+        <h2>What Is Daman Games App?</h2>
         <p>Daman Games App is a unique app that allows players to make a quick profit by predicting colors like red, green, and purple. The correct prediction earns real cash prizes. It’s simple, fun, and accessible from anywhere with an internet connection and a smartphone.</p>
         <p>You can also earn money by recommending the app to friends and family, with extra rewards for successful referrals.</p>
     </section>
