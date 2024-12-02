@@ -37,7 +37,16 @@
         </ol>
         <p><a href="https://damangames.one/register/" target="_blank">Register Now</a> using referral code <strong>382757617365</strong> to get started.</p>
     </section>
-
+<section>
+        <h2>Login to Daman Game</h2>
+    <ul>
+        <li><strong>Go to the Website:</strong> Open the <a href="https://damangames.one/login/" target="_blank">Daman Game website.</a></li>
+        <li><strong>Click on 'Login':</strong> Find the "Login" button on the top-right corner of the page.</li>
+        <li><strong>Enter Your Credentials:</strong> Input your registered email/phone number and password.</li>
+        <li><strong>Click 'Login':</strong> Press the "Login" button to access your account.</li>
+        <li><strong>Optional - Stay Logged In:</strong> Check the "Remember Me" box if you want to stay logged in.</li>
+    </ul>
+</section>
 <section>
         <h2>How to Add Money to Daman Games App?</h2>
         <ol>
