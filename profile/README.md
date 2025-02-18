@@ -23,7 +23,7 @@
         <h2>How to Download Daman Games App?</h2>
         <p>If you’re excited to start playing and making extra money, here’s how to download the Daman Games Apk:</p>
         <ul>
-            <li>You can download the app from the <a href="https://damangames.one/download/" target="_blank">official site</a>.</li>
+            <li>You can download the app from the <a href="https://damangames.support/download/" target="_blank">official site</a>.</li>
             <li>Use the code <strong>382757617365</strong> during signup to get a bonus.</li>
             <li>Note: The app is not yet available on the iOS App Store.</li>
         </ul>
@@ -36,7 +36,7 @@
             <li>Choose the "Sign Up" option and provide your phone number, password, and referral code.</li>
             <li>Click the "Register" button and verify your account using the OTP sent to your phone.</li>
         </ol>
-        <p><a href="https://damangames.one/register/" target="_blank">Register Now</a> using referral code <strong>382757617365</strong> to get started.</p>
+        <p><a href="https://damangames.support/register/" target="_blank">Register Now</a> using referral code <strong>382757617365</strong> to get started.</p>
     </section>
 
 <section>
