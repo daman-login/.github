@@ -1,9 +1,9 @@
 <h1>Daman App</h1>
 <section>
         <h2>Quick Access</h2>
-        <h3><a href="https://damangames.support/login/" target="_blank">Daman Game Login</a></h3>
-        <h3><a href="https://damangames.support/register/" target="_blank">Daman Game Register</a></h3>
-        <h3><a href="https://damangames.support/download/" target="_blank">Daman App Download</a></h3>
+        <h3><a href="https://gamelogin.in/daman-game/" target="_blank">Daman Game Login</a></h3>
+        <h3><a href="https://gamelogin.in/daman-game/" target="_blank">Daman Game Register</a></h3>
+        <h3><a href="https://gamelogin.in/daman-game/" target="_blank">Daman App Download</a></h3>
     </section>
     <p>Updated 31 Seconds Ago</p>
 <p>Welcome to the Daman App! Daman App is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Games, you can play, win, and even earn real money.</p>
@@ -23,7 +23,7 @@
         <h2>How to Download Daman Games App?</h2>
         <p>If you’re excited to start playing and making extra money, here’s how to download the Daman Games Apk:</p>
         <ul>
-            <li>You can download the app from the <a href="https://damangames.support/download/" target="_blank">official site</a>.</li>
+            <li>You can download the app from the <a href="https://gamelogin.in/daman-game/" target="_blank">official site</a>.</li>
             <li>Use the code <strong>382757617365</strong> during signup to get a bonus.</li>
             <li>Note: The app is not yet available on the iOS App Store.</li>
         </ul>
@@ -36,7 +36,7 @@
             <li>Choose the "Sign Up" option and provide your phone number, password, and referral code.</li>
             <li>Click the "Register" button and verify your account using the OTP sent to your phone.</li>
         </ol>
-        <p><a href="https://damangames.support/register/" target="_blank">Register Now</a> using referral code <strong>382757617365</strong> to get started.</p>
+        <p><a href="https://gamelogin.in/daman-game/" target="_blank">Register Now</a> using referral code <strong>382757617365</strong> to get started.</p>
     </section>
 
 <section>
@@ -114,9 +114,9 @@
         <p>&copy; 2024 Daman Games. All Rights Reserved.</p>
         <nav>
             <a href="#header">Home</a> | 
-            <a href="https://damangames.support/login/" target="_blank">Login</a> | 
-            <a href="https://damangames.support/register/" target="_blank">Register</a> | 
-            <a href="https://damangames.support/download/" target="_blank">Download App</a> | 
+            <a href="https://gamelogin.in/daman-game/" target="_blank">Login</a> | 
+            <a href="https://gamelogin.in/daman-game/" target="_blank">Register</a> | 
+            <a href="https://gamelogin.in/daman-game/" target="_blank">Download App</a> | 
             <a href="#contact">Contact Us</a>
         </nav>
     </footer>
